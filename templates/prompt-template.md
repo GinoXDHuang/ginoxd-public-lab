@@ -1,24 +1,23 @@
-# Prompt Title
+# Prompt 标题
 
-## Purpose
+## 目的
 
-Describe what this prompt helps with.
+说明这个 Prompt 用来解决什么问题。
 
 ## Prompt
 
 ```text
-Paste the prompt here.
+在这里粘贴 Prompt 正文。
 ```
 
-## How To Use
+## 使用方式
 
-Describe the input, expected output, and recommended model/tool context.
+说明输入要求、预期输出，以及推荐使用的模型或工具环境。
 
-## Notes
+## 注意事项
 
-Add limitations, risks, or examples.
+补充限制、风险或示例。
 
-## Attribution
+## 署名
 
-Created by Gino. Add source or reference notes here when relevant.
-
+Created by Gino. 如有参考来源，在这里补充说明。

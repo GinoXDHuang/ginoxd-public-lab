@@ -1,35 +1,34 @@
-# Constitution Title
+# 宪法标题
 
-## Purpose
+## 目的
 
-Describe what this constitution governs.
+说明这份宪法要约束或指导什么事情。
 
-## Scope
+## 适用范围
 
-Describe where it applies and where it does not apply.
+说明它适用于哪些场景，也说明它不适用于哪些场景。
 
-## Principles
+## 原则
 
-1. Principle one.
-2. Principle two.
-3. Principle three.
+1. 原则一。
+2. 原则二。
+3. 原则三。
 
-## Decision Rules
+## 判断规则
 
-- Rule:
-  Explanation.
+- 规则：
+  解释。
 
-## Examples
+## 示例
 
-### Good Use
+### 好的使用方式
 
-Describe a good use case.
+说明一个好的使用案例。
 
-### Bad Use
+### 不好的使用方式
 
-Describe a bad or out-of-scope use case.
+说明一个不合适或超出范围的使用案例。
 
-## Attribution
+## 署名
 
-Created by Gino. Add source or reference notes here when relevant.
-
+Created by Gino. 如有参考来源，在这里补充说明。

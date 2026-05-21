@@ -1,28 +1,27 @@
-# Playbook Title
+# Playbook 标题
 
-## Purpose
+## 目的
 
-Describe the practical workflow.
+说明这个流程解决什么实际问题。
 
-## When To Use
+## 什么时候使用
 
-List suitable situations.
+列出适合使用的场景。
 
-## Steps
+## 步骤
 
-1. Step one.
-2. Step two.
-3. Step three.
+1. 步骤一。
+2. 步骤二。
+3. 步骤三。
 
-## Output
+## 产出
 
-Describe the expected result.
+说明执行后应该得到什么结果。
 
-## Limitations
+## 限制
 
-Describe where this playbook may fail or need adjustment.
+说明这个流程在哪些情况下可能失效，或者需要调整。
 
-## Attribution
+## 署名
 
-Created by Gino. Add source or reference notes here when relevant.
-
+Created by Gino. 如有参考来源，在这里补充说明。

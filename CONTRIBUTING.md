@@ -1,24 +1,23 @@
-# Contributing
+# 贡献说明
 
-This repository is primarily maintained by Gino.
+这个仓库主要由 Gino 维护。
 
-Feedback is welcome through GitHub Issues after the repository is published.
+仓库公开后，欢迎通过 GitHub Issues 提交反馈、建议和使用案例。
 
-## Contribution Principles
+## 贡献原则
 
-- Keep suggestions practical and grounded in real use cases.
-- Preserve attribution for original ideas, references, and source materials.
-- Do not submit private, sensitive, confidential, or unauthorized materials.
-- Prefer clear examples over abstract claims.
+- 建议尽量具体，最好来自真实使用场景。
+- 对原创想法、参考资料和来源材料保留署名。
+- 不提交私人、敏感、保密或未授权公开的材料。
+- 优先提供清晰例子，而不是抽象评价。
 
-## Entry Quality Checklist
+## 内容发布检查清单
 
-Before publishing a new entry, check that it includes:
+新增条目正式发布前，尽量确认它包含：
 
-- Problem statement
-- Use cases
-- Non-use cases or limitations
-- Usage instructions
-- Example, if useful
-- Attribution notes, if relevant
-
+- 问题描述
+- 适用场景
+- 不适用场景或限制
+- 使用说明
+- 必要时提供示例
+- 如有参考来源，保留署名说明

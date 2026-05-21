@@ -1,39 +1,34 @@
 # Ginoxd Public Lab
 
-This repository is a public lab for reusable methods, tool-use constitutions,
-prompts, agent skills, playbooks, and small tools created or curated by Gino.
+这里是 Gino 公开沉淀和分享个人方法、工具使用宪法、Prompt、Agent Skill、工作流和小工具的实验室。
 
-The first stage of this repository is focused on structure. Content will be
-added gradually after review.
+第一阶段先建立结构，内容会在确认适合公开后逐步补充。
 
-## Sections
+## 内容分区
 
-| Section | Purpose |
+| 分区 | 用途 |
 | --- | --- |
-| `constitutions/` | Operating principles, tool-use constitutions, and decision rules. |
-| `skills/` | Agent skills or structured workflows. |
-| `prompts/` | Reusable prompts and prompt systems. |
-| `playbooks/` | Step-by-step methods and practical workflows. |
-| `tools/` | Small scripts, utilities, or tool packages. |
-| `templates/` | Reusable templates for new entries. |
-| `assets/` | Images, diagrams, and other public supporting assets. |
+| `constitutions/` | 工具使用宪法、操作原则、判断规则。 |
+| `skills/` | Agent Skill 或结构化工作流。 |
+| `prompts/` | 可复用 Prompt 和 Prompt System。 |
+| `playbooks/` | 可按步骤执行的方法、流程和实践手册。 |
+| `tools/` | 小脚本、实用工具或工具包。 |
+| `templates/` | 新增内容时可复用的模板。 |
+| `assets/` | 图片、图表和其他公开辅助素材。 |
 
-## Usage
+## 内容标准
 
-Each published entry should explain:
+每个正式发布的条目，尽量说明：
 
-- What problem it solves
-- When to use it
-- When not to use it
-- How to use it
-- Example input or output, when useful
-- Attribution and source notes, when relevant
+- 它解决什么问题
+- 什么时候适合使用
+- 什么时候不适合使用
+- 具体怎么使用
+- 必要时给出输入或输出示例
+- 如有参考来源，保留署名和来源说明
 
-## License
+## 授权
 
-Unless otherwise stated, the written materials in this repository are licensed
-under the Creative Commons Attribution 4.0 International License.
+除非另有说明，本仓库中的文字材料采用 Creative Commons Attribution 4.0 International License 授权。
 
-You may share and adapt the materials, including for commercial purposes, as
-long as appropriate attribution is given.
-
+你可以分享、改编和使用这些材料，包括商业用途，但需要保留适当署名。

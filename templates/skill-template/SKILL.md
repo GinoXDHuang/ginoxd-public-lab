@@ -1,21 +1,20 @@
-# Skill Title
+# Skill 标题
 
-## When To Use
+## 什么时候使用
 
-Use this skill when...
+当你需要……时，使用这个 Skill。
 
-## Workflow
+## 工作流
 
-1. Understand the user's goal.
-2. Gather the minimum necessary context.
-3. Produce the output.
-4. Verify the result.
+1. 理解用户目标。
+2. 收集必要且最小的上下文。
+3. 产出结果。
+4. 验证结果。
 
-## Output Format
+## 输出格式
 
-Describe the expected output.
+说明预期输出格式。
 
-## Notes
+## 注意事项
 
-Add examples, constraints, or implementation details.
-
+补充示例、约束或实现细节。
