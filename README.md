@@ -26,17 +26,6 @@ npx skills add GinoXDHuang/ginoxd-public-lab --skill product-genesis
 | --- | --- | --- |
 | Skill | [`product-genesis`](./skills/product-genesis/) | 在动手开发前，把模糊产品想法推进到锁定的产品共识、设计原则和项目宪法。 |
 
-## 内容标准
-
-每个正式发布的条目，尽量说明：
-
-- 它解决什么问题
-- 什么时候适合使用
-- 什么时候不适合使用
-- 具体怎么使用
-- 必要时给出输入或输出示例
-- 如有参考来源，保留署名和来源说明
-
 ## 授权
 
 除非另有说明，本仓库中的文字材料采用 Creative Commons Attribution 4.0 International License 授权。
