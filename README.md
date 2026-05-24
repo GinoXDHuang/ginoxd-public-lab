@@ -2,7 +2,29 @@
 
 这里是 Gino 公开沉淀和分享个人方法、工具使用宪法、Prompt、Agent Skill、工作流和小工具的实验室。
 
-第一阶段先建立结构，内容会在确认适合公开后逐步补充。
+第一阶段先从可直接安装使用的 Agent Skill 开始，再逐步补充更多方法、Prompt、Playbook 和小工具。
+
+## 快速开始
+
+当前第一个正式发布条目是 [`product-genesis`](./skills/product-genesis/)：一个用于产品共创的中文 Agent Skill。它会引导 Agent 从专家工作流还原、产品哲学提炼、架构决策，到产出产品共识文档和项目宪法。
+
+使用 [skills](https://www.npmjs.com/package/skills) CLI 全局安装：
+
+```bash
+npx skills add GinoXDHuang/ginoxd-public-lab --skill product-genesis -g
+```
+
+安装到当前项目：
+
+```bash
+npx skills add GinoXDHuang/ginoxd-public-lab --skill product-genesis
+```
+
+## 已发布内容
+
+| 类型 | 名称 | 适合场景 |
+| --- | --- | --- |
+| Skill | [`product-genesis`](./skills/product-genesis/) | 在动手开发前，把模糊产品想法推进到锁定的产品共识、设计原则和项目宪法。 |
 
 ## 内容分区
 
