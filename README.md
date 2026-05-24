@@ -1,8 +1,8 @@
 # Ginoxd Public Lab
 
-这里是 Gino 公开沉淀和分享个人方法、工具使用宪法、Prompt、Agent Skill、工作流和小工具的实验室。
+这里是 Gino 公开沉淀和分享 Agent Skill 的轻量仓库。
 
-第一阶段先从可直接安装使用的 Agent Skill 开始，再逐步补充更多方法、Prompt、Playbook 和小工具。
+当前阶段只放已经可以直接安装使用的内容，不提前创建还没有内容的分类目录。
 
 ## 快速开始
 
@@ -25,18 +25,6 @@ npx skills add GinoXDHuang/ginoxd-public-lab --skill product-genesis
 | 类型 | 名称 | 适合场景 |
 | --- | --- | --- |
 | Skill | [`product-genesis`](./skills/product-genesis/) | 在动手开发前，把模糊产品想法推进到锁定的产品共识、设计原则和项目宪法。 |
-
-## 内容分区
-
-| 分区 | 用途 |
-| --- | --- |
-| `constitutions/` | 工具使用宪法、操作原则、判断规则。 |
-| `skills/` | Agent Skill 或结构化工作流。 |
-| `prompts/` | 可复用 Prompt 和 Prompt System。 |
-| `playbooks/` | 可按步骤执行的方法、流程和实践手册。 |
-| `tools/` | 小脚本、实用工具或工具包。 |
-| `templates/` | 新增内容时可复用的模板。 |
-| `assets/` | 图片、图表和其他公开辅助素材。 |
 
 ## 内容标准
 
